@@ -249,9 +249,9 @@ nav .enlaces a:hover{
   
 }
 
-.logo, .logo img{ height:80px;
- width: auto;
-
+.logo, .logo img{ 
+    width: 80%;
+    
 }
 
 /* .logo-item{
