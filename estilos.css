@@ -1,6 +1,6 @@
 :root{
   --color1: rgb(219,144,.5);
-  --color2: rgba(0, 128, 128, 1);
+  --color2: rgba(23, 180, 83, 0.877);
   --color3: rgba(11,194,211, 0.623);
   --colorTextos: #faebd7;
   --fondo: #f2f2f2;
@@ -209,15 +209,15 @@ nav{
 
 .nav1{
   background: transparent;
-  height: 110px;
+  height: 100px;
   color:#fff;
   
 }
 
 .nav2{
-  background: rgba(127,182,167, .8);
+  background: var(--fondo);
   height:120px;
-  color:#fff;
+  color:#000;
 }
 
 .contenedor-nav{
